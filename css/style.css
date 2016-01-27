@@ -1,0 +1,13 @@
+div{
+	border: 20px 10px 20px 10px;
+	border:10px solid #9932CC;
+	padding: 20px;
+	background-color: #FFDEAD;
+
+}
+
+div div:nth-child(1){
+    border:1px dashed green;
+    text-align: center;
+    background-color: white;
+}
